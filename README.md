@@ -3,8 +3,11 @@
 
 
 ` Files `
-[](joint_savings.sol) 
-[](Execution_Results)
+
+[joint_saving_contract](joint_savings.sol) 
+
+
+[Execution_Results](Execution_Results)
 
 ---
 
@@ -67,7 +70,7 @@ The steps for the this Project divided into the following sections:
 Deploying the the  Smart Contract 
 ![](Execution_Results/contract_depolyed.png)
 
-#### Use the `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
+#### Use the `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from the contract.
 ![](Execution_Results/set_account.png)
 
 #### Test the deposit functionality of the smart contract by sending the following amounts of ether

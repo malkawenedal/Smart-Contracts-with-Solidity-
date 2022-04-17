@@ -64,13 +64,13 @@ The steps for the this Project divided into the following sections:
 -----
 #### Step 3: Interact with the Deployed Smart Contract
 
-deploying the the Contract 
+Deploying the the  Smart Contract 
 ![](Execution_Results/contract_depolyed.png)
 
 #### Use the `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
 ![](Execution_Results/set_account.png)
 
-#### Test the deposit functionality of your smart contract by sending the following amounts of ether
+#### Test the deposit functionality of the smart contract by sending the following amounts of ether
 
 
 * Transaction 1: Send 1 ether as wei
